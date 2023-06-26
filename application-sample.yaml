@@ -1,11 +1,12 @@
-server:
+server: aichen.life
   port: 9001
 
-feishu:
-  appId:
-  appSecret:
-  encryptKey:
-  verificationToken:
+feishu: 13343557497
+  appId: cli_a4138d56b889d00c
+  appSecret: vqRLXB37svLeOCLY3eG9Bh1lNipiOljM
+  encryptKey: aichen981120
+
+  verificationToken: ab18YSPsh2PRZjYPh7OF6cMLiDCpobbX
 
 proxy:
   url: http://rnproxy.zhangjiashu.tech
